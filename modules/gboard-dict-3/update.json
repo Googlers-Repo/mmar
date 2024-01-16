@@ -1,0 +1,13 @@
+{
+  "id": "gboard-dict-3",
+  "timestamp": 1652409636.0,
+  "versions": [
+    {
+      "timestamp": 1652409636.0,
+      "version": "v2.1.1",
+      "versionCode": 20220513,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/gboard-dict-3/v2.1.1_20220513.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/gboard-dict-3/v2.1.1_20220513.md"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+[2024/01/16 14:27:24] LocalTracks INFO: get_tracks: modules_folder = /home/runner/work/mmar/mmar/modules
+[2024/01/16 14:27:24] LocalTracks INFO: get_tracks: size = 100
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [AFWall-Boot-AntiLeak] -> type: GIT
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [AdGuardDNS4Magisk] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [AdGuardDNS4Magisk-IPv6] -> type: GIT
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Better-MIUI-Icons] -> type: GIT
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [BraviaEngine] -> type: GIT
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [BuiltIn-BusyBox] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Clash4Magisk] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [CloudflareDNS4Magisk] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull ERROR: from_git: [BraviaEngine] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/BraviaEngine.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [CloudflareDNS4Magisk-IPv6] -> type: GIT
+[2024/01/16 14:27:24] Pull ERROR: from_git: [AdGuardDNS4Magisk-IPv6] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [CustomizedNavbar] -> type: GIT
+[2024/01/16 14:27:24] Pull ERROR: from_git: [AFWall-Boot-AntiLeak] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [DalvikHyperthreading] -> type: GIT
+[2024/01/16 14:27:24] Pull ERROR: from_git: [Better-MIUI-Icons] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Detach] -> type: GIT
+[2024/01/16 14:27:24] Pull ERROR: from_git: [CustomizedNavbar] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/CustomizedNavbar.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Disable_high_volume_warning] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull ERROR: from_git: [CloudflareDNS4Magisk-IPv6] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Evolve-Evo] -> type: GIT
+[2024/01/16 14:27:24] Pull ERROR: from_git: [DalvikHyperthreading] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/DalvikHyperthreading.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [Fdroid-Priv] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull ERROR: from_git: [Detach] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Detach.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [FluentEmojiMagisk] -> type: ONLINE_JSON
+[2024/01/16 14:27:24] Pull ERROR: from_git: [Evolve-Evo] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Evolve-Evo.git)
+[2024/01/16 14:27:24] Pull DEBUG: from_track: [GMSDoze] -> type: ONLINE_JSON
+[2024/01/16 14:27:26] Pull ERROR: from_json: [Disable_high_volume_warning] -> MissingSchema(Invalid URL '': No scheme supplied. Perhaps you meant https://?)
+[2024/01/16 14:27:26] Pull DEBUG: from_track: [GMSDozeBlockFind] -> type: ONLINE_JSON
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [Google-Sans] -> type: GIT
+[2024/01/16 14:27:28] Sync INFO: update: [AdGuardDNS4Magisk] -> update to v2.7f (27)
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [Google-Sans-Plus] -> type: GIT
+[2024/01/16 14:27:28] Sync INFO: update: [CloudflareDNS4Magisk] -> update to v2.7 (27)
+[2024/01/16 14:27:28] Pull ERROR: from_git: [Google-Sans] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Google-Sans.git)
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [HideNavBar] -> type: GIT
+[2024/01/16 14:27:28] Pull ERROR: from_git: [Google-Sans-Plus] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Google-Sans-Plus.git)
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [Luz-Nocturna_Modded] -> type: ONLINE_JSON
+[2024/01/16 14:27:28] Pull ERROR: from_git: [HideNavBar] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/HideNavBar.git)
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [MacRandomizationEnabler] -> type: GIT
+[2024/01/16 14:27:28] Pull ERROR: from_git: [MacRandomizationEnabler] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git)
+[2024/01/16 14:27:28] Pull DEBUG: from_track: [Malwack] -> type: ONLINE_JSON
+[2024/01/16 14:27:29] Pull WARNING: _get_changelog_common: [GMSDoze] -> 'https://github.com/CrazyBytesVE/GMS-Doze/blob/GMS-Doze/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:29] Pull DEBUG: from_track: [MiXplorer] -> type: GIT
+[2024/01/16 14:27:29] Sync INFO: update: [GMSDoze] -> update to v1.4A (140)
+[2024/01/16 14:27:29] Pull ERROR: from_git: [MiXplorer] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/MiXplorer.git)
+[2024/01/16 14:27:29] Pull DEBUG: from_track: [NavBar_Resize] -> type: ONLINE_JSON
+[2024/01/16 14:27:29] Pull DEBUG: from_track: [NavBar_Resize_Miui10-11-12-13] -> type: ONLINE_JSON
+[2024/01/16 14:27:29] Sync INFO: update: [BuiltIn-BusyBox] -> update to 1.0.7 (107)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [NoProcStatRestriction] -> type: ONLINE_JSON
+[2024/01/16 14:27:30] Sync INFO: update: [Clash4Magisk] -> update to 1.13.0 (101300022)
+[2024/01/16 14:27:30] Pull WARNING: _get_changelog_common: [GMSDozeBlockFind] -> 'https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/blob/main/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [NoStorageRestrict] -> type: GIT
+[2024/01/16 14:27:30] Sync INFO: update: [GMSDozeBlockFind] -> update to v1.4B (141)
+[2024/01/16 14:27:30] Pull ERROR: from_git: [NoStorageRestrict] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/NoStorageRestrict.git)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [NotchBarKiller] -> type: GIT
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [OneController] -> type: GIT
+[2024/01/16 14:27:30] Sync INFO: update: [Fdroid-Priv] -> update to Version 0.2.13 (20220314)
+[2024/01/16 14:27:30] Pull ERROR: from_git: [NotchBarKiller] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/NotchBarKiller.git)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX] -> type: GIT
+[2024/01/16 14:27:30] Pull ERROR: from_git: [OneController] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/OneController.git)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [QS_Rectangulares] -> type: ONLINE_JSON
+[2024/01/16 14:27:30] Pull ERROR: from_git: [PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [RTKS] -> type: GIT
+[2024/01/16 14:27:30] Pull ERROR: from_git: [RTKS] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/RTKS.git)
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [SomcGameEnhancer-Upgrade] -> type: ONLINE_JSON
+[2024/01/16 14:27:30] Pull DEBUG: from_track: [SystemlessDebloater] -> type: ONLINE_JSON
+[2024/01/16 14:27:30] Sync INFO: update: [FluentEmojiMagisk] -> update to v2023.03.17 (20230317)
+[2024/01/16 14:27:32] Pull WARNING: _get_changelog_common: [Luz-Nocturna_Modded] -> 'https://github.com/CrazyBytesVE/Luz-Nocturna/blob/main/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:32] Sync INFO: update: [Luz-Nocturna_Modded] -> update to v1.0 (1)
+[2024/01/16 14:27:32] Pull DEBUG: from_track: [ThemedProject] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [ThemedProject] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/ThemedProject.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [ToyBox-Ext] -> type: ONLINE_JSON
+[2024/01/16 14:27:33] Pull WARNING: _get_changelog_common: [NavBar_Resize] -> 'https://github.com/CrazyBytesVE/36-DPI-NavBar-Mod/blob/main/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:33] Sync INFO: update: [NavBar_Resize] -> update to v1.1 (11)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [UbuntuFontVinaooo] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [UbuntuFontVinaooo] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [YAKT] -> type: GIT
+[2024/01/16 14:27:33] Pull WARNING: _get_changelog_common: [NavBar_Resize_Miui10-11-12-13] -> 'https://github.com/CrazyBytesVE/36DPI-NavBar-Mod-Miui-10-11-12-13/blob/main/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [acc] -> type: GIT
+[2024/01/16 14:27:33] Sync INFO: update: [NavBar_Resize_Miui10-11-12-13] -> update to v2.0 (2)
+[2024/01/16 14:27:33] Pull ERROR: from_git: [YAKT] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/YAKT.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [audio-jitter-silencer] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [acc] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/acc.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [audio-misc-settings] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [audio-jitter-silencer] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/audio-jitter-silencer.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [backup] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [audio-misc-settings] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/audio-misc-settings.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [charch] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [backup] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/backup.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [charch_dinit] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [charch] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/charch.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [charch_openrc] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [charch_dinit] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/charch_dinit.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [charch_sshd] -> type: GIT
+[2024/01/16 14:27:33] Pull ERROR: from_git: [charch_openrc] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/charch_openrc.git)
+[2024/01/16 14:27:33] Pull DEBUG: from_track: [cmdpatch] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [charch_sshd] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/charch_sshd.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [custom-certificate-authorities] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [cmdpatch] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/cmdpatch.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [data_backup] -> type: GIT
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [data_isolation_support] -> type: GIT
+[2024/01/16 14:27:34] Sync INFO: update: [Malwack] -> update to v4.2.1 (18)
+[2024/01/16 14:27:34] Pull ERROR: from_git: [custom-certificate-authorities] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/custom-certificate-authorities.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [data_restore_Courier] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [data_backup] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/data_backup.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [djs] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [data_restore_Courier] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/data_restore_Courier.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [drc-remover] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [data_isolation_support] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/data_isolation_support.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [ezme-dex-space] -> type: GIT
+[2024/01/16 14:27:34] Pull WARNING: _get_changelog_common: [QS_Rectangulares] -> 'https://github.com/CrazyBytesVE/QS-Modded/blob/main/changelog.md' is not unsupported type, please use 'https://raw.githubusercontent.com'
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [ezme-nodebug] -> type: GIT
+[2024/01/16 14:27:34] Sync INFO: update: [QS_Rectangulares] -> update to v1.0 (1)
+[2024/01/16 14:27:34] Pull ERROR: from_git: [djs] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/djs.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [font-koruri-n] -> type: ONLINE_JSON
+[2024/01/16 14:27:34] Pull ERROR: from_git: [drc-remover] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/drc-remover.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [font-mejiro-oshi] -> type: ONLINE_JSON
+[2024/01/16 14:27:34] Pull ERROR: from_git: [ezme-dex-space] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/ezme-dex-space.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [frozen_magisk_app] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [ezme-nodebug] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/ezme-nodebug.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [gaming] -> type: GIT
+[2024/01/16 14:27:34] Pull WARNING: _check_changelog: [NoProcStatRestriction] -> unsupported type (html text)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [gboard-dict-3] -> type: ONLINE_JSON
+[2024/01/16 14:27:34] Sync INFO: update: [NoProcStatRestriction] -> update to v0.0.2 (2)
+[2024/01/16 14:27:34] Pull ERROR: from_git: [frozen_magisk_app] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/frozen_magisk_app.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [heimdall-ndk] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [gaming] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/gaming.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [isodrive] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [heimdall-ndk] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/heimdall-ndk.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [lhroot] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [isodrive] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/isodrive.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magic-flash] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [magic-flash] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/magic-flash.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magisk-captive-control] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [lhroot] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/lhroot.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magisk-drm-disabler] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [magisk-drm-disabler] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magisk_overlayfs] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [magisk-captive-control] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magisk_proc_monitor] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [magisk_overlayfs] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/magisk_overlayfs.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [magiskhide] -> type: GIT
+[2024/01/16 14:27:34] Pull ERROR: from_git: [magisk_proc_monitor] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/magisk_proc_monitor.git)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [microG-GApps] -> type: GIT
+[2024/01/16 14:27:34] Sync INFO: update: [ToyBox-Ext] -> update to 1.0.9 (109)
+[2024/01/16 14:27:34] Pull DEBUG: from_track: [microg_installer] -> type: ONLINE_JSON
+[2024/01/16 14:27:35] Pull ERROR: from_git: [magiskhide] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/MagiskHide.git)
+[2024/01/16 14:27:35] Pull DEBUG: from_track: [oneplus-8series-9r-camera-unlocker] -> type: ONLINE_JSON
+[2024/01/16 14:27:35] Pull ERROR: from_git: [microG-GApps] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/microG-GApps.git)
+[2024/01/16 14:27:35] Pull DEBUG: from_track: [oneplus-9-9pro-camera-unlocker] -> type: ONLINE_JSON
+[2024/01/16 14:27:36] Pull ERROR: from_json: [oneplus-9-9pro-camera-unlocker] -> HTTPError(404: Not Found)
+[2024/01/16 14:27:36] Pull DEBUG: from_track: [oneplusdotfix] -> type: ONLINE_JSON
+[2024/01/16 14:27:36] Pull DEBUG: from_track: [open_fonts] -> type: ONLINE_JSON
+[2024/01/16 14:27:36] Sync INFO: update: [SomcGameEnhancer-Upgrade] -> update to v7.0.A.1.20 (14681108)
+[2024/01/16 14:27:36] Pull DEBUG: from_track: [open_webview] -> type: ONLINE_JSON
+[2024/01/16 14:27:36] Sync INFO: update: [SystemlessDebloater] -> update to 1.5.4 (154)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [pdx213_assistant_camera_remap] -> type: GIT
+[2024/01/16 14:27:37] Sync INFO: update: [font-koruri-n] -> update to v25 (25)
+[2024/01/16 14:27:37] Pull ERROR: from_git: [pdx213_assistant_camera_remap] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [perf-limit-xiaomi-12] -> type: GIT
+[2024/01/16 14:27:37] Pull ERROR: from_git: [perf-limit-xiaomi-12] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [pixel-tensor-audio-decompressor] -> type: GIT
+[2024/01/16 14:27:37] Pull ERROR: from_git: [pixel-tensor-audio-decompressor] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [qdl-ndk] -> type: GIT
+[2024/01/16 14:27:37] Pull ERROR: from_git: [qdl-ndk] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/qdl-ndk.git)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [saturation] -> type: GIT
+[2024/01/16 14:27:37] Pull ERROR: from_git: [saturation] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/saturation.git)
+[2024/01/16 14:27:37] Pull DEBUG: from_track: [selinux_mode] -> type: ONLINE_JSON
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [sensitive_props] -> type: GIT
+[2024/01/16 14:27:38] Sync INFO: update: [font-mejiro-oshi] -> update to v19 (19)
+[2024/01/16 14:27:38] Pull ERROR: from_git: [sensitive_props] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/sensitive_props.git)
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [simple_bootloopsaver] -> type: GIT
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [smallbattery] -> type: GIT
+[2024/01/16 14:27:38] Sync INFO: update: [gboard-dict-3] -> update to v2.1.1 (20220513)
+[2024/01/16 14:27:38] Pull ERROR: from_git: [simple_bootloopsaver] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git)
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [supl-replacer] -> type: ONLINE_JSON
+[2024/01/16 14:27:38] Pull ERROR: from_git: [smallbattery] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/smallbattery.git)
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [systemui-bootloop] -> type: GIT
+[2024/01/16 14:27:38] Pull ERROR: from_git: [systemui-bootloop] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/systemui-bootloop.git)
+[2024/01/16 14:27:38] Pull DEBUG: from_track: [trichromelibrary-squoosh] -> type: ONLINE_JSON
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [ttf-twemoji] -> type: GIT
+[2024/01/16 14:27:40] Sync INFO: update: [oneplus-8series-9r-camera-unlocker] -> update to v1.2 (1200)
+[2024/01/16 14:27:40] Pull ERROR: from_git: [ttf-twemoji] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/ttf-twemoji.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [unityfix] -> type: GIT
+[2024/01/16 14:27:40] Pull ERROR: from_git: [unityfix] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/unityfix.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [upx-ndk] -> type: GIT
+[2024/01/16 14:27:40] Pull ERROR: from_git: [upx-ndk] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/upx-ndk.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [usb-samplerate-unlocker] -> type: GIT
+[2024/01/16 14:27:40] Pull ERROR: from_git: [usb-samplerate-unlocker] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [vintf-bypass] -> type: GIT
+[2024/01/16 14:27:40] Pull ERROR: from_git: [vintf-bypass] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/vintf-bypass.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [vr25.fbind] -> type: GIT
+[2024/01/16 14:27:40] Pull ERROR: from_git: [vr25.fbind] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/fbind.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [wifi-bonding] -> type: GIT
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [xmlpak-RE] -> type: ONLINE_JSON
+[2024/01/16 14:27:40] Sync INFO: update: [oneplusdotfix] -> update to v6.3 (6300)
+[2024/01/16 14:27:40] Pull ERROR: from_git: [wifi-bonding] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git)
+[2024/01/16 14:27:40] Pull DEBUG: from_track: [ytrevancedinject] -> type: GIT
+[2024/01/16 14:27:41] Pull ERROR: from_git: [ytrevancedinject] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/ytrevancedinject.git)
+[2024/01/16 14:27:41] Pull DEBUG: from_track: [zram-swap-manager] -> type: GIT
+[2024/01/16 14:27:41] Pull ERROR: from_git: [zram-swap-manager] -> GitCommandError(clone failed: git@github.com:Magisk-Modules-Alt-Repo/zram-swap-manager.git)
+[2024/01/16 14:27:41] Sync INFO: update: [open_fonts] -> update to 3.1.1 (119)
+[2024/01/16 14:27:41] Sync INFO: update: [microg_installer] -> update to Revived 3.4.2-0 (30420)
+[2024/01/16 14:27:41] Sync INFO: update: [selinux_mode] -> update to 2.6.2 (262)
+[2024/01/16 14:27:41] Sync INFO: update: [open_webview] -> update to 2.3.1 (231)
+[2024/01/16 14:27:42] Sync INFO: update: [supl-replacer] -> update to v2.2.1 (5)
+[2024/01/16 14:27:42] Sync INFO: update: [trichromelibrary-squoosh] -> update to v1.4 (20220623)
+[2024/01/16 14:27:42] Sync INFO: update: [xmlpak-RE] -> update to v8.0 (80)
+[2024/01/16 14:27:42] LocalTracks INFO: get_tracks: modules_folder = /home/runner/work/mmar/mmar/modules
+[2024/01/16 14:27:42] LocalTracks INFO: get_tracks: size = 100

@@ -1,0 +1,13 @@
+{
+  "id": "Malwack",
+  "timestamp": 1705415253.631569,
+  "versions": [
+    {
+      "timestamp": 1705415253.631569,
+      "version": "v4.2.1",
+      "versionCode": 18,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/Malwack/v4.2.1_18.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/Malwack/v4.2.1_18.md"
+    }
+  ]
+}

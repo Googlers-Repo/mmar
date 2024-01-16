@@ -1,0 +1,13 @@
+{
+  "id": "microg_installer",
+  "timestamp": 1704627770.0,
+  "versions": [
+    {
+      "timestamp": 1704627770.0,
+      "version": "Revived 3.4.2-0",
+      "versionCode": 30420,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.md"
+    }
+  ]
+}

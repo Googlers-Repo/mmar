@@ -1,0 +1,13 @@
+{
+  "id": "xmlpak-RE",
+  "timestamp": 1697914942.0,
+  "versions": [
+    {
+      "timestamp": 1697914942.0,
+      "version": "v8.0",
+      "versionCode": 80,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/xmlpak-RE/v8.0_80.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/xmlpak-RE/v8.0_80.md"
+    }
+  ]
+}

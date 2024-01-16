@@ -1,0 +1,13 @@
+{
+  "id": "ToyBox-Ext",
+  "timestamp": 1691427222.0,
+  "versions": [
+    {
+      "timestamp": 1691427222.0,
+      "version": "1.0.9",
+      "versionCode": 109,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/ToyBox-Ext/1.0.9_109.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/ToyBox-Ext/1.0.9_109.md"
+    }
+  ]
+}

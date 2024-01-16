@@ -1,12 +1,1057 @@
 {
-    "name": "Googlers Magisk Repo",
-    "website": "https://mmrl.dergoogler.com",
-    "support": "https://github.com/Googlers-Repo/gmr/issues",
-    "donate": "https://github.com/sponsors/DerGoogler",
-    "submission": null,
-    "metadata": {
-        "version": 1,
-        "timestamp": 1705413261.748779
+  "name": "Magisk Modules Alt Repo",
+  "website": "https://github.com/Magisk-Modules-Alt-Repo",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
+  "donate": null,
+  "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1705415262.78147
+  },
+  "modules": [
+    {
+      "id": "AdGuardDNS4Magisk",
+      "name": "AdGuardDNS4Magisk",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "added": 1680541839.65951,
+      "timestamp": 1702463873.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541839.65951,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1702463873.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/AdGuardDNS4Magisk/v2.7f_27.md"
+        }
+      ]
     },
-    "modules": []
+    {
+      "id": "BuiltIn-BusyBox",
+      "name": "Magisk built-in BusyBox",
+      "version": "1.0.7",
+      "versionCode": 107,
+      "author": "zgfg @ xda",
+      "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary",
+      "added": 1692474230.968044,
+      "timestamp": 1691527282.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692474230.968044,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691527282.0,
+          "version": "1.0.7",
+          "versionCode": 107,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/BuiltIn-BusyBox/1.0.7_107.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/BuiltIn-BusyBox/1.0.7_107.md"
+        }
+      ]
+    },
+    {
+      "id": "Clash4Magisk",
+      "name": "Clash for Magisk",
+      "version": "1.13.0",
+      "versionCode": 101300022,
+      "author": "Kry9toN",
+      "description": "Clash meta core with service scripts for Android.",
+      "added": 1680541867.483523,
+      "timestamp": 1663827433.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541867.483523,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1663827433.0,
+          "version": "1.13.0",
+          "versionCode": 101300022,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/Clash4Magisk/1.13.0_101300022.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/Clash4Magisk/1.13.0_101300022.md"
+        }
+      ]
+    },
+    {
+      "id": "CloudflareDNS4Magisk",
+      "name": "CloudflareDNS4Magisk",
+      "version": "v2.7",
+      "versionCode": 27,
+      "author": "Rom",
+      "description": "Using the new Cloudflare DNS system-lessly! As simple as that.",
+      "added": 1680541868.910362,
+      "timestamp": 1644450020.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541868.910362,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1644450020.0,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/CloudflareDNS4Magisk/v2.7_27.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/CloudflareDNS4Magisk/v2.7_27.md"
+        }
+      ]
+    },
+    {
+      "id": "Fdroid-Priv",
+      "name": "F-Droid Privileged Extension",
+      "version": "Version 0.2.13",
+      "versionCode": 20220314,
+      "author": "entr0pia@GitHub",
+      "description": "Installs F-Droid Privileged Extension systemlessly",
+      "added": 1680541902.617836,
+      "timestamp": 1647226419.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541902.617836,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1647226419.0,
+          "version": "Version 0.2.13",
+          "versionCode": 20220314,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+        }
+      ]
+    },
+    {
+      "id": "FluentEmojiMagisk",
+      "name": "Fluent Emoji (Microsoft)",
+      "version": "v2023.03.17",
+      "versionCode": 20230317,
+      "author": "k3rnelpanik",
+      "description": "Replaces system emojis with Fluent Emojis from Microsoft with the magic of Magisk.",
+      "added": 1692472868.037896,
+      "timestamp": 1691803198.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692472868.037896,
+        "license": "UNKNOWN",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691803198.0,
+          "version": "v2023.03.17",
+          "versionCode": 20230317,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/FluentEmojiMagisk/v2023.03.17_20230317.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/FluentEmojiMagisk/v2023.03.17_20230317.md"
+        }
+      ]
+    },
+    {
+      "id": "GMSDoze",
+      "name": "GMS Doze",
+      "version": "v1.4A",
+      "versionCode": 140,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
+      "added": 1680541915.965666,
+      "timestamp": 1683468066.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541915.965666,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683468066.0,
+          "version": "v1.4A",
+          "versionCode": 140,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/GMSDoze/v1.4A_140.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GMSDozeBlockFind",
+      "name": "GMS Doze (Bloquea \"Find My Device\")",
+      "version": "v1.4B",
+      "versionCode": 141,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
+      "added": 1680541914.42378,
+      "timestamp": 1683468277.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541914.42378,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683468277.0,
+          "version": "v1.4B",
+          "versionCode": 141,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/GMSDozeBlockFind/v1.4B_141.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Luz-Nocturna_Modded",
+      "name": "Luz Nocturna Modded",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
+      "added": 1680541936.064604,
+      "timestamp": 1661027636.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541936.064604,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1661027636.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/Luz-Nocturna_Modded/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Malwack",
+      "name": "Malwack | Anti-Malware & Ad Blocker",
+      "version": "v4.2.1",
+      "versionCode": 18,
+      "author": "Person0z",
+      "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
+      "added": 1693757700.755931,
+      "timestamp": 1705415253.631569,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693757700.755931,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1705415253.631569,
+          "version": "v4.2.1",
+          "versionCode": 18,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/Malwack/v4.2.1_18.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/Malwack/v4.2.1_18.md"
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize",
+      "name": "36DPI NavBar AOSP",
+      "version": "v1.1",
+      "versionCode": 11,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
+      "added": 1680541963.356864,
+      "timestamp": 1661028155.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541963.356864,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1661028155.0,
+          "version": "v1.1",
+          "versionCode": 11,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/NavBar_Resize/v1.1_11.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize_Miui10-11-12-13",
+      "name": "36DPI NavBar para Miui",
+      "version": "v2.0",
+      "versionCode": 2,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
+      "added": 1680541964.887119,
+      "timestamp": 1665058819.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541964.887119,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1665058819.0,
+          "version": "v2.0",
+          "versionCode": 2,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/NavBar_Resize_Miui10-11-12-13/v2.0_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NoProcStatRestriction",
+      "name": "Remove /proc/stat restriction",
+      "version": "v0.0.2",
+      "versionCode": 2,
+      "author": "LY",
+      "description": "Remove /proc/stat restriction on Android O and above",
+      "added": 1680541968.256236,
+      "timestamp": 1673519027.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541968.256236,
+        "license": "WTFPL",
+        "homepage": "https://github.com/Young-Lord/NoProcStatRestriction",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673519027.0,
+          "version": "v0.0.2",
+          "versionCode": 2,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/NoProcStatRestriction/v0.0.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "QS_Rectangulares",
+      "name": "Quick Settings Modded",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
+      "added": 1680541992.3419,
+      "timestamp": 1660425389.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541992.3419,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1660425389.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/QS_Rectangulares/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SomcGameEnhancer-Upgrade",
+      "name": "SomcGameEnhancer Upgrade",
+      "version": "v7.0.A.1.20",
+      "versionCode": 14681108,
+      "author": "entr0pia@GitHub",
+      "description": "Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only",
+      "added": 1680542001.843641,
+      "timestamp": 1663296809.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542001.843641,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1663296809.0,
+          "version": "v7.0.A.1.20",
+          "versionCode": 14681108,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
+        }
+      ]
+    },
+    {
+      "id": "SystemlessDebloater",
+      "name": "Systemless Debloater",
+      "version": "1.5.4",
+      "versionCode": 154,
+      "author": "zgfg @ xda",
+      "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "added": 1680542005.415533,
+      "timestamp": 1696314908.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542005.415533,
+        "license": "LGPL-2.1",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1696314908.0,
+          "version": "1.5.4",
+          "versionCode": 154,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/SystemlessDebloater/1.5.4_154.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/SystemlessDebloater/1.5.4_154.md"
+        }
+      ]
+    },
+    {
+      "id": "ToyBox-Ext",
+      "name": "ToyBox (Ext)",
+      "version": "1.0.9",
+      "versionCode": 109,
+      "author": "zgfg @ xda",
+      "description": "Additional toybox applets. SUPPORTED: ARMv7 and higher, all Android versions",
+      "added": 1692474537.351281,
+      "timestamp": 1691427222.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692474537.351281,
+        "license": "0BSD",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691427222.0,
+          "version": "1.0.9",
+          "versionCode": 109,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/ToyBox-Ext/1.0.9_109.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/ToyBox-Ext/1.0.9_109.md"
+        }
+      ]
+    },
+    {
+      "id": "font-koruri-n",
+      "name": "Koruri Font",
+      "version": "v25",
+      "versionCode": 25,
+      "author": "lindwurm,AndroPlus",
+      "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
+      "added": 1680541945.829714,
+      "timestamp": 1677543460.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541945.829714,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677543460.0,
+          "version": "v25",
+          "versionCode": 25,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.md"
+        }
+      ]
+    },
+    {
+      "id": "font-mejiro-oshi",
+      "name": "Mejiro Font",
+      "version": "v19",
+      "versionCode": 19,
+      "author": "AndroPlus",
+      "description": "Mejiro font patch for Japanese users.",
+      "added": 1680541947.365189,
+      "timestamp": 1677543320.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541947.365189,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677543320.0,
+          "version": "v19",
+          "versionCode": 19,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-mejiro-oshi/v19_19.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/font-mejiro-oshi/v19_19.md"
+        }
+      ]
+    },
+    {
+      "id": "gboard-dict-3",
+      "name": "Gboard user_dict_3_3 \u8bcd\u5e93",
+      "version": "v2.1.1",
+      "versionCode": 20220513,
+      "author": "entr0pia@GitHub",
+      "description": "\u7528\u6237\u8bcd\u5178 (user_dict_3_3), \u652f\u6301\u7b80\u62fc\u548c\u53cc\u62fc. \u517158053\u4e2a\u8bcd\u6761. \u6839\u636e\u624b\u673a\u6027\u80fd\u4e0d\u540c, \u65b0\u8bcd\u5e93\u9700\u89811\u5206\u949f\u5de6\u53f3\u751f\u6548. \u6d4b\u8bd5\u65b9\u6cd5: \u201c\u5149\u00b7\u9047\u201d. \u82e5\u8bcd\u5e93\u5931\u6548, \u8bf7\u91cd\u65b0\u5237\u5165\u5e76\u9009\u62e9\u6062\u590d; \u518d\u4e0d\u884c\u9009\u62e9\u5168\u65b0\u5b89\u88c5",
+      "added": 1680541910.816994,
+      "timestamp": 1652409636.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541910.816994,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1652409636.0,
+          "version": "v2.1.1",
+          "versionCode": 20220513,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/gboard-dict-3/v2.1.1_20220513.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/gboard-dict-3/v2.1.1_20220513.md"
+        }
+      ]
+    },
+    {
+      "id": "microg_installer",
+      "name": "microG Installer Revived",
+      "version": "Revived 3.4.2-0",
+      "versionCode": 30420,
+      "author": "nift4",
+      "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
+      "added": 1680541955.313628,
+      "timestamp": 1704627770.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541955.313628,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1704627770.0,
+          "version": "Revived 3.4.2-0",
+          "versionCode": 30420,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.md"
+        }
+      ]
+    },
+    {
+      "id": "oneplus-8series-9r-camera-unlocker",
+      "name": "OnePlus 8 Series & 9R Camera Unlocker",
+      "version": "v1.2",
+      "versionCode": 1200,
+      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "added": 1680541975.943228,
+      "timestamp": 1668837132.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541975.943228,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1668837132.0,
+          "version": "v1.2",
+          "versionCode": 1200,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+        }
+      ]
+    },
+    {
+      "id": "oneplusdotfix",
+      "name": "OnePlus 5/5T DotFix",
+      "version": "v6.3",
+      "versionCode": 6300,
+      "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
+      "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
+      "added": 1680541981.063983,
+      "timestamp": 1673864734.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541981.063983,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673864734.0,
+          "version": "v6.3",
+          "versionCode": 6300,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/oneplusdotfix/v6.3_6300.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/oneplusdotfix/v6.3_6300.md"
+        }
+      ]
+    },
+    {
+      "id": "open_fonts",
+      "name": "Open Fonts",
+      "version": "3.1.1",
+      "versionCode": 119,
+      "author": "F3FFO",
+      "description": "Open Fonts change your system fonts",
+      "added": 1680541982.658018,
+      "timestamp": 1682263480.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541982.658018,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/issues",
+        "donate": "https://www.paypal.me/f3ff0",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1682263480.0,
+          "version": "3.1.1",
+          "versionCode": 119,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_fonts/3.1.1_119.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/open_fonts/3.1.1_119.md"
+        }
+      ]
+    },
+    {
+      "id": "open_webview",
+      "name": "Open Webview",
+      "version": "2.3.1",
+      "versionCode": 231,
+      "author": "F3FFO",
+      "description": "Open Webview change your system webview",
+      "added": 1680541984.243244,
+      "timestamp": 1696769051.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541984.243244,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues",
+        "donate": "https://www.paypal.me/f3ff0",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1696769051.0,
+          "version": "2.3.1",
+          "versionCode": 231,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.md"
+        }
+      ]
+    },
+    {
+      "id": "selinux_mode",
+      "name": "Selinux Mode Changer",
+      "version": "2.6.2",
+      "versionCode": 262,
+      "author": "alicee98",
+      "description": "Change Your Selinux Mode",
+      "added": 1680541997.952613,
+      "timestamp": 1657442127.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541997.952613,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1657442127.0,
+          "version": "2.6.2",
+          "versionCode": 262,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/selinux_mode/2.6.2_262.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/selinux_mode/2.6.2_262.md"
+        }
+      ]
+    },
+    {
+      "id": "supl-replacer",
+      "name": "A-GPS SUPL replacer",
+      "version": "v2.2.1",
+      "versionCode": 5,
+      "author": "PlqnK, D3SOX",
+      "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
+      "added": 1680542003.892583,
+      "timestamp": 1678882493.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542003.892583,
+        "license": "BSD-3-Clause",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678882493.0,
+          "version": "v2.2.1",
+          "versionCode": 5,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/supl-replacer/v2.2.1_5.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/supl-replacer/v2.2.1_5.md"
+        }
+      ]
+    },
+    {
+      "id": "trichromelibrary-squoosh",
+      "name": "TrichromeLibrary Squoosh",
+      "version": "v1.4",
+      "versionCode": 20220623,
+      "author": "entr0pia@GitHub",
+      "description": "Remove the outdated TrichromeLibrary after reboot | \u91cd\u542f\u540e\u79fb\u9664\u8fc7\u65f6\u7684 TrichromeLibrary",
+      "added": 1680542011.678236,
+      "timestamp": 1655967999.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542011.678236,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1655967999.0,
+          "version": "v1.4",
+          "versionCode": 20220623,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/trichromelibrary-squoosh/v1.4_20220623.md"
+        }
+      ]
+    },
+    {
+      "id": "xmlpak-RE",
+      "name": "xmlpak-RE \u2013 a road to vendor apps",
+      "version": "v8.0",
+      "versionCode": 80,
+      "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
+      "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+      "added": 1692473114.97988,
+      "timestamp": 1697914942.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692473114.97988,
+        "license": "",
+        "homepage": "https://github.com/rushiranpise/xmlpak-RE",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1697914942.0,
+          "version": "v8.0",
+          "versionCode": 80,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/xmlpak-RE/v8.0_80.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/xmlpak-RE/v8.0_80.md"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "id": "open_webview",
+  "timestamp": 1696769051.0,
+  "versions": [
+    {
+      "timestamp": 1696769051.0,
+      "version": "2.3.1",
+      "versionCode": 231,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.md"
+    }
+  ]
+}

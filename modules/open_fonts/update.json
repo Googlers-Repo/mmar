@@ -1,0 +1,13 @@
+{
+  "id": "open_fonts",
+  "timestamp": 1682263480.0,
+  "versions": [
+    {
+      "timestamp": 1682263480.0,
+      "version": "3.1.1",
+      "versionCode": 119,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_fonts/3.1.1_119.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/open_fonts/3.1.1_119.md"
+    }
+  ]
+}
