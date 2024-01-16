@@ -1,0 +1,10 @@
+{
+  "id": "microG-GApps",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/microG-GApps.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues",
+  "added": 1686562403.330229,
+  "last_update": 1685826920.0,
+  "versions": 1
+}

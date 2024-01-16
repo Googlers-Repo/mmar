@@ -1,0 +1,11 @@
+{
+  "id": "FluentEmojiMagisk",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/update.json",
+  "license": "UNKNOWN",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues",
+  "added": 1692472868.037896,
+  "last_update": 1691803198.0,
+  "versions": 1
+}

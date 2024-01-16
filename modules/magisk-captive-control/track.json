@@ -1,0 +1,11 @@
+{
+  "id": "magisk-captive-control",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues",
+  "added": 1680541942.177756,
+  "last_update": 1604596410.0,
+  "versions": 1
+}

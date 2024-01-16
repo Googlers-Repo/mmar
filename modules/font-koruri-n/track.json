@@ -1,0 +1,9 @@
+{
+  "id": "font-koruri-n",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/update.json",
+  "license": "WTFPL",
+  "added": 1680541945.829714,
+  "last_update": 1677543460.0,
+  "versions": 1
+}

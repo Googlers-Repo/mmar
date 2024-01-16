@@ -1,0 +1,10 @@
+{
+  "id": "Evolve-Evo",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/issues",
+  "added": 1680541894.011069,
+  "last_update": 1672571250.0,
+  "versions": 1
+}

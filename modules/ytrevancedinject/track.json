@@ -1,0 +1,10 @@
+{
+  "id": "ytrevancedinject",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/issues",
+  "added": 1680542032.460808,
+  "last_update": 1673704299.0,
+  "versions": 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "charch",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues",
+  "added": 1680541858.886285,
+  "last_update": 1638831717.0,
+  "versions": 1
+}

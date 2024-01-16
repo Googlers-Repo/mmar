@@ -1,0 +1,11 @@
+{
+  "id": "simple_bootloopsaver",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues",
+  "added": 1692473057.888212,
+  "last_update": 1690305811.0,
+  "versions": 1
+}

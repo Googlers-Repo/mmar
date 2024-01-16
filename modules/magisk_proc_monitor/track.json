@@ -1,0 +1,11 @@
+{
+  "id": "magisk_proc_monitor",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues",
+  "added": 1680541951.768585,
+  "last_update": 1694360679.0,
+  "versions": 2
+}

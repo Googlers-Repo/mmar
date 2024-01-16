@@ -1,0 +1,12 @@
+{
+  "id": "audio-misc-settings",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/changelog.md",
+  "license": "AGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues",
+  "added": 1692474215.589094,
+  "last_update": 1704021032.0,
+  "versions": 3
+}

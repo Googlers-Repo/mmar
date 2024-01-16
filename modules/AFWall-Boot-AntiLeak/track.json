@@ -1,0 +1,11 @@
+{
+  "id": "AFWall-Boot-AntiLeak",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues",
+  "added": 1680541843.891351,
+  "last_update": 1640525162.0,
+  "versions": 1
+}

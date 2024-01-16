@@ -1,0 +1,10 @@
+{
+  "id": "frozen_magisk_app",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues",
+  "added": 1680541906.610466,
+  "last_update": 1673245267.0,
+  "versions": 1
+}

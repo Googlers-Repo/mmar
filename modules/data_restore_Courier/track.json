@@ -1,0 +1,12 @@
+{
+  "id": "data_restore_Courier",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/main/changelog.md",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues",
+  "added": 1693757543.39259,
+  "last_update": 1686221785.0,
+  "versions": 1
+}

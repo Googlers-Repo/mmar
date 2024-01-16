@@ -1,0 +1,10 @@
+{
+  "id": "MiXplorer",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/MiXplorer.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues",
+  "added": 1680541958.835092,
+  "last_update": 1672863130.0,
+  "versions": 1
+}

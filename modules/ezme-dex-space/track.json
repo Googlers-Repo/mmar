@@ -1,0 +1,11 @@
+{
+  "id": "ezme-dex-space",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/issues",
+  "added": 1680541896.05897,
+  "last_update": 1662814335.0,
+  "versions": 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/issues",
+  "added": 1680541988.735895,
+  "last_update": 1645367235.0,
+  "versions": 1
+}

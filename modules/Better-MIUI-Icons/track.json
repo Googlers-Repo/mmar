@@ -1,0 +1,11 @@
+{
+  "id": "Better-MIUI-Icons",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/issues",
+  "added": 1680541853.25358,
+  "last_update": 1615045465.0,
+  "versions": 1
+}

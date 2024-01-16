@@ -1,0 +1,11 @@
+{
+  "id": "Detach",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Detach.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Detach/issues",
+  "added": 1680541887.662185,
+  "last_update": 1645534294.0,
+  "versions": 1
+}

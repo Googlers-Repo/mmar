@@ -1,0 +1,12 @@
+{
+  "id": "CustomizedNavbar",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/changelog.md",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues",
+  "added": 1680541879.470619,
+  "last_update": 1680734245.0,
+  "versions": 1
+}

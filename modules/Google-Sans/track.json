@@ -1,0 +1,11 @@
+{
+  "id": "Google-Sans",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Google-Sans.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues",
+  "added": 1680541918.690187,
+  "last_update": 1598228686.0,
+  "versions": 1
+}

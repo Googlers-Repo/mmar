@@ -1,0 +1,11 @@
+{
+  "id": "magic-flash",
+  "enable": true,
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/magic-flash.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/issues",
+  "added": 1680541940.093895,
+  "last_update": 1652933875.0,
+  "versions": 1
+}
