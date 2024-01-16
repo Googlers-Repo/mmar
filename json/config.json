@@ -1,0 +1,11 @@
+{
+    "name": "Magisk Modules Alt Repo",
+    "website": "https://github.com/Magisk-Modules-Alt-Repo",
+    "support": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
+    "donate": null,
+    "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
+    "base_url": "https://gr.dergoogler.com/mmar/",
+    "max_num": 3,
+    "enable_log": true,
+    "log_dir": "log"
+  }
