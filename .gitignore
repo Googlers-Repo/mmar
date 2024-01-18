@@ -5,7 +5,7 @@ local/
 log/
 
 # Util tools
-util/
+#util/
 
 # MacOS
 .DS_Store
