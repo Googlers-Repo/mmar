@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
   "metadata": {
     "version": 1,
-    "timestamp": 1709467854.957817
+    "timestamp": 1709489260.448547
   },
   "modules": [
     {
@@ -900,12 +900,12 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.3.1",
-      "versionCode": 231,
+      "version": "2.4.0",
+      "versionCode": 240,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "added": 1680541984.243244,
-      "timestamp": 1696769051.0,
+      "timestamp": 1709485366.0,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541984.243244,
@@ -931,6 +931,13 @@
           "versionCode": 231,
           "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.zip",
           "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.md"
+        },
+        {
+          "timestamp": 1709485366.0,
+          "version": "2.4.0",
+          "versionCode": 240,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.4.0_240.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.4.0_240.md"
         }
       ]
     },

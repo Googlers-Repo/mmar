@@ -8,6 +8,13 @@
       "versionCode": 231,
       "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.zip",
       "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.3.1_231.md"
+    },
+    {
+      "timestamp": 1709485366.0,
+      "version": "2.4.0",
+      "versionCode": 240,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/open_webview/2.4.0_240.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/open_webview/2.4.0_240.md"
     }
   ]
 }
