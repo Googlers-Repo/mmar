@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
   "metadata": {
     "version": 1,
-    "timestamp": 1710050875.562281
+    "timestamp": 1710072617.18302
   },
   "modules": [
     {
@@ -641,12 +641,12 @@
     {
       "id": "font-koruri-n",
       "name": "Koruri Font",
-      "version": "v25",
-      "versionCode": 25,
+      "version": "v26",
+      "versionCode": 26,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "added": 1680541945.829714,
-      "timestamp": 1677543460.0,
+      "timestamp": 1710052355.0,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541945.829714,
@@ -672,6 +672,13 @@
           "versionCode": 25,
           "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.zip",
           "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.md"
+        },
+        {
+          "timestamp": 1710052355.0,
+          "version": "v26",
+          "versionCode": 26,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v26_26.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v26_26.md"
         }
       ]
     },
