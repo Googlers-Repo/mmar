@@ -3,13 +3,6 @@
   "timestamp": 1677543460.0,
   "versions": [
     {
-      "timestamp": 1677543460.0,
-      "version": "v25",
-      "versionCode": 25,
-      "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.zip",
-      "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v25_25.md"
-    },
-    {
       "timestamp": 1710052355.0,
       "version": "v26",
       "versionCode": 26,
@@ -22,6 +15,13 @@
       "versionCode": 27,
       "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v27_27.zip",
       "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v27_27.md"
+    },
+    {
+      "timestamp": 1711254247.0,
+      "version": "v28",
+      "versionCode": 28,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v28_28.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/font-koruri-n/v28_28.md"
     }
   ]
 }
