@@ -8,6 +8,13 @@
       "versionCode": 30420,
       "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.zip",
       "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.2-0_30420.md"
+    },
+    {
+      "timestamp": 1711281486.0,
+      "version": "Revived 3.4.3-0",
+      "versionCode": 30430,
+      "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.3-0_30430.zip",
+      "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.3-0_30430.md"
     }
   ]
 }
