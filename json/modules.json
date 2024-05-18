@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
   "metadata": {
     "version": 1,
-    "timestamp": 1716012555.350117
+    "timestamp": 1716034317.842435
   },
   "modules": [
     {
@@ -766,12 +766,12 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.3-0",
-      "versionCode": 30430,
+      "version": "Revived 3.4.4-0",
+      "versionCode": 30440,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "added": 1680541955.313628,
-      "timestamp": 1711281486.0,
+      "timestamp": 1716033244.0,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541955.313628,
@@ -804,6 +804,13 @@
           "versionCode": 30430,
           "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.3-0_30430.zip",
           "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.3-0_30430.md"
+        },
+        {
+          "timestamp": 1716033244.0,
+          "version": "Revived 3.4.4-0",
+          "versionCode": 30440,
+          "zipUrl": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.4-0_30440.zip",
+          "changelog": "https://gr.dergoogler.com/mmar/modules/microg_installer/Revived_3.4.4-0_30440.md"
         }
       ]
     },
