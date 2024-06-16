@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues",
   "metadata": {
     "version": 1,
-    "timestamp": 1718518233.123899
+    "timestamp": 1718539950.706244
   },
   "modules": [
     {
@@ -29,12 +29,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -66,12 +66,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -103,12 +103,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -140,12 +140,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -177,12 +177,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -214,12 +214,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -251,12 +251,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -288,12 +288,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -325,12 +325,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -362,12 +362,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -399,12 +399,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -436,12 +436,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -473,12 +473,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -510,12 +510,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -547,12 +547,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -584,12 +584,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -621,12 +621,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -658,12 +658,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -709,12 +709,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -746,12 +746,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -783,12 +783,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -834,12 +834,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -871,12 +871,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -908,12 +908,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -945,12 +945,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -989,12 +989,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1026,12 +1026,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1063,12 +1063,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1100,12 +1100,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
